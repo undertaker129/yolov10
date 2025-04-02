@@ -4,14 +4,11 @@
 ``` bash
 qwer
 ```
-# 구구단을 출력하는 코드
 
-# 원하는 구구단을 출력하는 함수
-def print_multiplication_table(n):
-    for i in range(1, 10):
-        print(f"{n} x {i} = {n * i}")
 
 # 2단부터 9단까지 출력
+``` bash
 for i in range(2, 10):
     print_multiplication_table(i)
     print("-" * 20)
+```

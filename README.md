@@ -34,3 +34,6 @@ for i in range(2, 10):
 
 ## yolov11 yolov8 성능비교
 ![화면 캡처 2025-05-07 151808](https://github.com/user-attachments/assets/f6a4844e-6e9f-4dfa-a1c8-ad0ade96eefe)
+
+#### 출처
+https://docs.ultralytics.com/ko/models/yolo11/#supported-tasks-and-modes

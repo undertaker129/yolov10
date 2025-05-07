@@ -18,3 +18,6 @@ for i in range(2, 10):
 
 # yolov8
 ![화면 캡처 2025-05-07 151611](https://github.com/user-attachments/assets/048e7582-5be9-443a-9103-5c8c065878d8)
+
+## yolov11 yolov8 성능비교
+![화면 캡처 2025-05-07 151808](https://github.com/user-attachments/assets/f6a4844e-6e9f-4dfa-a1c8-ad0ade96eefe)

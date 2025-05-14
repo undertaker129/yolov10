@@ -1,4 +1,8 @@
+# Colab 
+### Colab 런타임 유형 변경 Gpu가 더욱 빠르다
+
 # yolov8
+
 ### 방과후 생성형 ai 과제
 
 #### GitHub 사진 넣는방법

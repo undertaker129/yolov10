@@ -12,14 +12,6 @@
 qwer
 ```
 
-
-# 2단부터 9단까지 출력
-``` bash
-for i in range(2, 10):
-    print_multiplication_table(i)
-    print("-" * 20)
-```
-
 # yolov8
 ![화면 캡처 2025-05-07 151611](https://github.com/user-attachments/assets/048e7582-5be9-443a-9103-5c8c065878d8)
 

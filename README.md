@@ -6,7 +6,7 @@
 #### GitHub 사진 넣는방법
 
 ![download](https://github.com/user-attachments/assets/06c57c59-8b59-4ea6-b439-94bd62f7c821)
-##### 복사가능한 명령어
+#### 복사가능한 명령어쓰는법
 ###### ``` bash
 ###### 쓰고 싶은 내용
 ###### ```
